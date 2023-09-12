@@ -2,7 +2,7 @@
 ##### Pagina Web de PatitoTrucado, sigo en practica en esto no me juzgueis...
 >Aqui se desarrola todo el aprendizaje que mi persona a abarcado en git y github.
 
-######En Este Curso Aprendí:
+###### En Este Curso Aprendí:
 * Fundamentos de Git y Github.
 * Archivos de texto plano y binarios.
 * Agregar y hacer "Commits" en Staging.
